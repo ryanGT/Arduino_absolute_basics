@@ -8,8 +8,8 @@ Echo to Arduino pin 13
 Trig to Arduino pin 12
 */
 
-#define trigPin 13
-#define echoPin 12
+#define trigPin 5
+#define echoPin 6
 
 float cm_per_microsecond = 0.03432;
 
